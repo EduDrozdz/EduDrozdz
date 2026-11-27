@@ -39,7 +39,7 @@
 | 🩺 [Predicao-Doenca](https://github.com/EduDrozdz/Predicao-Doenca) | Predição de doenças em animais a partir de hemogramas (projeto de extensão) | Python · Flask · regressão linear |
 | 🔐 [Vulnerabilidades](https://github.com/EduDrozdz/Vulnerabilidades) | Identificação e correção de vulnerabilidades em código Java | Java · segurança |
 | 📱 MedPlantão *(em breve)* | App de passagem de plantão médico no método I-PASS (TCC) | Flutter · Dart |
-| 🚨 SOS Rio Bonito *(em breve)* | Sistema web de ocorrências e voluntários, seguindo a OWASP | React · Node.js · Prisma · SQLite · JWT |
+| 🚨 [SOS Rio Bonito](https://github.com/RogerOliveira1/sos-rio-bonito) | Sistema web full-stack de ocorrências e voluntários, seguindo a OWASP | React · Node.js · Prisma · SQLite · JWT |
 
 ### 📊 Estatísticas
 

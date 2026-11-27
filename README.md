@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/eduardo-drozdz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Curitiba-PR-36BCF7?style=for-the-badge" alt="Curitiba/PR">
   <img src="https://img.shields.io/badge/Fortinet-NSE%201%20Certified-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet NSE 1">
+  <a href="https://www.skills.google/public_profiles/4df717be-8886-4db3-b2e9-2ff6bcfa1c89"><img src="https://img.shields.io/badge/Google%20Cloud-IA%20Generativa%20%26%20LLMs-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"></a>
 </p>
 
 ---
@@ -19,6 +20,7 @@
 - 🤖 Trabalhei **1 ano e 4 meses com automação industrial**, programando robôs **ABB** e **KUKA** e CLPs **Siemens, Omron e Rockwell** em projetos para Volvo, Electrolux, Renault Geely, Gestamp e Thales.
 - 📱 Desenvolvo o **MedPlantão**, meu TCC: app em **Flutter** para passagem de plantão médico no método **I-PASS**, com transferência por **QR Code offline**.
 - 🔐 Certificação **Fortinet NSE 1 Certified in Cybersecurity**.
+- 🧠 Cursos **Introduction to Generative AI** e **Introduction to Large Language Models** ([Google Cloud](https://www.skills.google/public_profiles/4df717be-8886-4db3-b2e9-2ff6bcfa1c89)).
 - 🌱 Estudando agora: **agentes de IA**, **SQL** e **automação de processos (RPA)**.
 
 ### 🛠️ Tecnologias
@@ -30,7 +32,7 @@
 </p>
 
 **Automação industrial:** CLPs Siemens, Omron e Rockwell · robôs ABB (RAPID) e KUKA (KRL) · Siemens Process Simulate
-**IA:** regressão linear · visão computacional · IA generativa
+**IA:** regressão linear · visão computacional · IA generativa · LLMs
 
 ### 📌 Projetos em destaque
 
